@@ -1,0 +1,91 @@
+nav{
+    margin-bottom: 70px;
+}
+#register{
+    background-image: #afaeae;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+card .img{
+    margin-top: -100px;
+}
+
+#signup input{
+    background-color: rgba(161, 117, 156, 0.8);
+}
+
+#contain{
+    width: 600px;
+    margin-top: 200px;
+    margin-left: 200px;
+    background-color: rgba(141, 29, 132, 0.8);
+}
+
+#btn{
+    margin-left: 220px;
+}
+
+#user_pic{
+    padding: 20px;
+    margin-left: 230px;
+    margin-top: -60px;
+    border-radius: 50%;
+    background-color: rgba(161, 117, 156, 0.8);;
+}
+
+.input-group-addon{
+    background-color: rgba(161, 117, 156, 0.8);
+}
+
+.input-group-addon i{
+    font-size: 30px;
+    padding-right: 20px;
+}
+
+#signup label{
+    color: rgba(253, 219, 249, 0.8);
+}
+
+#signup input::placeholder{
+    color: rgba(253, 219, 249, 0.8);
+}
+
+#signups{
+    width: 700px;
+    margin-left: 400px;
+}
+
+#signups input{
+    color: #ffffff;
+    background-color: rgba(129, 49, 120, 0.8);
+}
+
+#submit{
+    margin-left: 200px;
+}
+
+#signups textarea{
+    color: #ffffff;
+    background-color: rgba(129, 49, 120, 0.8);
+}
+
+#signups input::placeholder{
+    color: #ffffff;
+}
+
+#signups textarea::placeholder{
+    color: #ffffff;
+}
+
+#title{
+    background-color: #813178;
+}
+
+#img_prevew{
+    display: inline;
+}
+
+
+

@@ -1,0 +1,32 @@
+body{
+    background-image: url(../img/22.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+#contact-clean{
+    max-width:700px;
+    width:90%;
+    margin:0 auto;
+    background-color: #ffffff;
+}
+.form-control{
+    border: none;
+    background-color: #770f6638;
+    color: #ffffff;
+}
+
+.btns{
+    margin-left: 250px;
+}
+
+#upload{
+    width:40%;
+    border: none;
+    background-image: url(../img/index2.jpg);
+    background-repeat: no-repeat;
+}
+
+.form-check-label{
+    color: #770f66;
+}
